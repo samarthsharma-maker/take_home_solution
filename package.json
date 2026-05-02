@@ -1,0 +1,12 @@
+{
+  "name": "scaler-devsecops-assignment",
+  "version": "1.0.0",
+  "description": "Scaler DevSecOps Take-Home Assignment - Secure Solution",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["devsecops", "docker", "ci-cd", "security"],
+  "author": "",
+  "license": "MIT"
+}
